@@ -7,7 +7,7 @@
 
 
 ## Análises:
-   **Quantidade populacional por país entre 2000 e 2015 - (Date Series) 
+   **Quantidade populacional por país entre 2000 e 2015 - (Date Series)**
    st.markdown(" - Média de indivíduos utilizando a internet por país de 2000 a 2015")
    st.markdown(" - Quantidade de indíviduos utilizando a internet ao decorrer do tempo - (Date Series)")
    st.markdown(" - Quantidade total de emissão de gás carbonico entre países desenvolvidos e subdesenvolvidos")
