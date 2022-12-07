@@ -8,7 +8,7 @@
 
 ## Análises:
    * **Quantidade populacional por país entre 2000 e 2015 - (Date Series)**
-   * **Média de indivíduos utilizando a internet por país de 2000 a 2015)**
+   * **Média de indivíduos utilizando a internet por país de 2000 a 2015**
    * **Quantidade de indíviduos utilizando a internet ao decorrer do tempo - (Date Series)**
    * **Quantidade total de emissão de gás carbonico entre países desenvolvidos e subdesenvolvidos**
    * **Emissão de CO2 entre países subdesenvolvidos ao decorrer do tempo - (Date Series)**
