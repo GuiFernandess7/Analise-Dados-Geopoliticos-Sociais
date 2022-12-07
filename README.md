@@ -13,4 +13,4 @@
    * **Quantidade total de emissão de gás carbonico entre países desenvolvidos e subdesenvolvidos**
    * **Emissão de CO2 entre países subdesenvolvidos ao decorrer do tempo - (Date Series)**
    * **Média da expectativa de vida entre países subdesenvolvidos e desenvolvidos de 2000 a 2015**
-   * **Expectativa de vida de países subdesenvolvidos pelo tempo (Date Series)**
+   * **Expectativa de vida de países subdesenvolvidos pelo tempo - (Date Series)**
