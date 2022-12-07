@@ -3,7 +3,7 @@
 
 
 ## Dataset:
-![alt text]()
+![alt text](https://github.com/GuiFernandess7/Analise-Dados-Geopoliticos-Sociais/blob/main/img/dataset.png)
 
 
 ## Análises:
