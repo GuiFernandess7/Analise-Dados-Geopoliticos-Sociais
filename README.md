@@ -3,7 +3,7 @@
 
 
 ## Dataset:
-![alt text](http://C:/Users/Asus/Downloads/dataset.png)
+![alt text]()
 
 
 ## Análises:
