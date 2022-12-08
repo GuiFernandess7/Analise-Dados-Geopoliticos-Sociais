@@ -22,9 +22,8 @@ https://user-images.githubusercontent.com/63022500/206465494-a44ea184-7ca4-4251-
 ### Países Subdesenvolvidos:
 https://user-images.githubusercontent.com/63022500/206469286-de1f1b1d-0b24-4113-8d30-51e3d6d95f5e.mp4
 
-
 ### Países Desenvolvidos:
-gif
+https://user-images.githubusercontent.com/63022500/206470504-3386d4de-2d67-41e7-89fd-2da7e8746261.mp4
 
 ### Todos os Países:
 https://user-images.githubusercontent.com/63022500/206467266-31a6acc1-e16f-4be7-9c42-18b6fefd6621.mp4
