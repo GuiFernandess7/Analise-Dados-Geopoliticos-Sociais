@@ -20,7 +20,8 @@ https://user-images.githubusercontent.com/63022500/206465494-a44ea184-7ca4-4251-
 
 ## Filtros:
 ### Países Subdesenvolvidos:
-gif
+https://user-images.githubusercontent.com/63022500/206467266-31a6acc1-e16f-4be7-9c42-18b6fefd6621.mp4
+
 
 ### Países Desenvolvidos:
 gif
